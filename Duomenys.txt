@@ -1,0 +1,220 @@
+Skip to main content
+Find a Lawyer
+
+
+Legal Forms & Services
+
+
+Learn About the Law
+
+
+Legal Professionals
+
+Blogs
+
+
+FINDLAW 
+CASELAW 
+UNITED STATES 
+US 11TH CIR. 
+CHAPMAN V. AI TRANSPORT
+CHAPMAN v. AI TRANSPORT (1999)
+United States Court of Appeals,Eleventh Circuit.
+John D. CHAPMAN, Plaintiff-Appellant, v. AI TRANSPORT;  American International Adjustment Company, Inc., et al., Defendants-Appellees.
+
+Nos. 97-8838, 97-9086 and 97-9269.
+Decided: July 13, 1999
+Before HATCHETT and BIRCH, Circuit Judges,* and KEITH**, Senior Circuit Judge.
+R. Lawrence Ashe, Jr., Nancy E. Rafuse, William B. Hill, Michael Dubus, Atlanta, GA, for Plaintiff-Appellant. David N. Schaeffer, Atlanta, GA, James J. Oh, Allison Z. Stein, Chicago, IL, for Defendants-Appellees. Michael J. Sheehan, Chicago, IL, for Defendants-Appellees in docket Nos. 97-8838 and 97-9269.
+In this appeal arising from an employment discrimination lawsuit, John D. Chapman asks that we vacate a jury verdict in favor of the defendants, AIG Claim Services (“AIGCS”), AI Transport, and AIG Aviation, with respect to Chapman's claims filed pursuant to the Americans with Disabilities Act (“ADA”), 42 U.S.C. §§ 12101-17.   In addition, Chapman asserts that the district court erred both in granting summary judgment prior to trial on his age discrimination claim filed under the Age Discrimination in Employment Act (“ADEA”), 29 U.S.C. §§ 621-34, and in failing to reconsider its summary judgment decision after hearing the evidence offered at trial.   For the reasons that follow, we affirm the jury's verdict on Chapman's ADA claim, but reverse the district court's summary judgment order on Chapman's ADEA claim and remand for proceedings consistent with this opinion.
+
+BACKGROUND
+
+Chapman began working as a senior claims representative for AI Transport, a division of AIG Aviation, in 1988, and was promoted to claims supervisor shortly thereafter.   In 1992, AI Transport initiated a restructuring and reduction of its workforce and, as a result, Chapman's job title changed from claims supervisor to manager of self-insured retention accounts (“SIR Manager”).   As SIR Manager, Chapman was responsible, in part, for auditing self-insured retention accounts and processing claims made on these accounts.   It is undisputed that the nature of claims operations changed under the leadership of Bill O'Brien, who became vice president in charge of claims operations at AI Transport beginning in 1989, to necessitate more travel than had previously been required.
+
+Chapman suffers from tachycardia, a chronic condition that affects the heart's ability to control its electrical impulses.   During his tenure with AI Transport, Chapman's tachycardia did not manifest itself until the spring of 1992, during which Chapman experienced blackouts and a loss of consciousness.   Chapman saw Dr. Cole Wolford, an internist, several times from April through July 1992, for treatment of his heart condition.   In July 1992, Wolford placed Chapman on a holter monitor in an effort to determine the cause of his irregular heartbeat.   AI Transport and Chapman strongly dispute the extent to which Wolford expressly advised Chapman to restrict or eliminate work-related travel due to his tachycardia;  it appears, however, that Wolford's internal office notes do not explicitly reflect a determination that Chapman should desist from travelling.   In August 1992, Wolford referred Chapman to a cardiologist, Dr. Ted Monitz, who found that, notwithstanding his diagnosis of tachycardia, Chapman did not suffer from any structural heart defects.
+
+In September 1992, Chapman notified O'Brien, Valerie Zaleski, Human Resources Manager, and Bob Spann, Chapman's immediate supervisor, that he was experiencing stress related to business travel.   According to the defendants, Chapman neither informed O'Brien, Zaleski, or Spann that this stress might be related to a heart condition, nor did he request that they speak to his physicians.   The defendants also contend that O'Brien suggested during that conversation that AI Transport would make all of Chapman's travel arrangements for him, thereby alleviating some of his travel-related stress, but that travel would continue to be a requirement of his job.   In November 1992, Chapman received nine accounts to audit, and was advised that he needed to complete as many of these audits as possible by the end of the calendar year.   On December 17, 1992, Chapman advised O'Brien, Zaleski, and Spann that he would no longer travel in relation to his job.   According to Chapman, O'Brien responded that Chapman could “travel, resign, or be fired.”   R5-71 at 9.   One day later, after Chapman maintained that he could not travel anymore, O'Brien fired him.
+
+During the fall of 1992, Chapman submitted his resume to James Wogsland, the vice president of AIGCS, AI Transport's sister company.   According to Chapman, his request for transfer to AIGCS was not limited to a particular job.   Chapman also contends that his supervisor, Spann, supported his transfer request and specifically told Wogsland that Chapman had experienced difficulty with the extensive travel required under O'Brien's leadership at AI Transport.   Wogsland and Ward Turnquist, another AIGCS vice-president, interviewed Chapman for the position of claims manager but offered the position to an AI Transport employee who was younger than Chapman.   According to AIGCS, Wogsland and Turnquist believed that Chapman had not interviewed well and were concerned about his alleged “job-skipping” history.   Chapman avers that, in addition to the claims manager position for which he was not selected, AIGCS transferred three other younger, less-qualified AI Transport employees to available positions at AIGCS for which Chapman was not considered.
+
+Chapman subsequently filed this action against the defendants and alleged, inter alia, that AI Transport had discriminated against him due to his disabling heart condition by both terminating him and failing to accommodate his disability.   Chapman further alleged that AIGCS had discriminated against him on the basis of age by failing to hire him or transfer him to available positions for which he applied and was qualified.   In a report and recommendation, the magistrate judge determined that Chapman had established triable issues of fact with respect to his claims of disability discrimination in relation to AI Transport and age discrimination in relation to AIGCS.   See R9-95 at 34, 40.   The district court adopted in part the magistrate judge's recommendation, but found that Chapman had set forth sufficient evidence to survive summary judgment with respect to all defendants on his disability claims.   The district court further found, however, that Chapman had failed to demonstrate that AIGCS's stated reasons for failing to hire or transfer him to available positions was a pretext for age discrimination.   Consistent with this determination, the district court granted summary judgment in favor of AIGCS on Chapman's ADEA claim, leaving only his ADA claims to be tried before a jury.   See R12-109 at 20-22.
+
+Following a jury trial that lasted approximately nine days, the jury returned a verdict in favor of the defendants, and found both that travel was an essential function of Chapman's job as SIR Manager and that his refusal to travel was not based on a disability that was known or should have been known to the defendants.   See R16-185;  R27-143.   In this consolidated appeal, Chapman appeals the jury's verdict on his disability claims;  the district court's refusal to order a new trial on these claims;  the court's award of costs to the defendants;  the court's exclusion of certain evidence that Chapman sought to introduce at trial;  and the court's order granting summary judgment on his age discrimination claims.   We address in turn each of these contentions.
+
+DISCUSSION
+
+ We review de novo the district court's order granting summary judgment, viewing the record and all its inferences in favor of the nonmoving party.   See Arrington v. Cobb County, 139 F.3d 865, 871 (11th Cir.1998).   We review the district court's denial of a motion for a new trial for abuse of discretion.   See Montgomery v. Noga, 168 F.3d 1282, 1295 (11th Cir.1999).   We also review for abuse of discretion whether the district court properly excluded evidence, see Walker v. NationsBank of Florida, 53 F.3d 1548, 1554 (11th Cir.1995), and awarded attorney's fees, see Turner v. Sungard Business Systems, Inc., 91 F.3d 1418, 1422 (11th Cir.1996).
+
+A. ADEA Claim
+
+ In an employment discrimination case, the plaintiff must produce sufficient evidence to support an inference that the defendant-employer based its employment decision on an illegal criterion.   See Alphin v. Sears Roebuck & Co., 940 F.2d 1497, 1500 (11th Cir.1991) (quoting Halsell v. Kimberly-Clark Corp., 683 F.2d 285, 290 (8th Cir.1982)).   Once a plaintiff has established a prima facie case and has shown sufficient evidence to allow a fact-finder to disbelieve an employer's proffered explanation for its actions, that alone is enough to preclude entry of judgment as a matter of law.  Combs v. Plantation Patterns, 106 F.3d 1519, 1532 (11th Cir.1997), cert. denied, 522 U.S. 1045, 118 S.Ct. 685, 139 L.Ed.2d 632 (1998).
+
+ This circuit has adopted a variation of the test for Title VII claims articulated by the Supreme Court in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S.Ct. 1817, 36 L.Ed.2d 668 (1973), for cases arising under the ADEA.  Mitchell v. Worldwide Underwriters Ins. Co., 967 F.2d 565, 566 (11th Cir.1992).   In order to make out a prima facie case for an ADEA violation, the plaintiff must show that he (1) was a member of the protected age group, (2) was subject to adverse employment action, (3) was qualified to do the job, and (4) was replaced by a younger individual.   See Benson v. Tocco, Inc., 113 F.3d 1203, 1207-08 (11th Cir.1997).
+
+Here, it is undisputed that Chapman, who was sixty-one years old at the time that he applied-but was not hired-for a position at AIGCS, established a prima facie case under the ADEA.   AIGCS then proffered as a legitimate, non-discriminatory justification for refusing to hire Chapman, that he did not interview well and had exhibited a recent history of “job-skipping.”   The district court determined that Chapman failed to specifically rebut or demonstrate to be pretextual the defendant's subjective evaluation of Chapman's interview skills.
+
+ Having reviewed the record, however, we conclude that, in light of our precedent, the district court did not properly evaluate Chapman's effort to demonstrate the pretextual nature of AIGCS's reason for its employment decision, nor did the court adequately explain its reasons for granting summary judgment on this claim.   We previously have noted that, although a defendant's burden of persuasion in rebutting the inference created by the prima facie case is “exceedingly light,” Perryman v. Johnson Products Co., 698 F.2d 1138, 1142 (11th Cir.1983), the defendant's explanation must be “clear and reasonably specific.”  Conner v. Fort Gordon Bus Co., 761 F.2d 1495, 1499 (11th Cir.1985).   Thus, we have found that, while not necessarily precluding summary judgment in every instance, a proffer of purely subjective reasons for a termination or failure-to-hire decision leaves an employee without any objective criteria to point to in order to show competence, see Miles v. M.N.C. Corporation, 750 F.2d 867, 871 (11th Cir.1985), and leaves the court without any objective, ascertainable criteria to evaluate.   See id. at 872 (“What the court is left with as M.N.C.'s legitimate nondiscriminatory reason for failure to rehire Mary Miles is the subjective evaluation, without more, that she was not a good worker and Lavelle Parmer was.”).   Recently, in Carter v. Three Springs Residential Treatment, 132 F.3d 635 (11th Cir.1998), we determined that an employer defendant's reliance on the plaintiff's lack of “special knowledge and skills” in assessing her qualifications in comparison to another individual was “too subjective to allow for any meaningful comparison between [the two applicants.]”  Id. at 644.   We further noted that
+
+[R]equirements such as the possession of “initiative and judgment capabilities” and the ability “to relate to people in a manner to win confidence and establish support” are incapable of objective evaluation.   They cannot be relied upon by an employer seeking to defeat the plaintiff's prima facie case by showing that the plaintiff is less qualified than the applicant chosen for the promotion.
+
+Id.
+
+Here, the district court noted that AIGCS set forth as its reasons for not hiring Chapman that he had interviewed poorly and had a relatively unstable job history.   The court went on to find that
+
+plaintiff points to no specific facts which could be used to counter AIGCS's nondiscriminatory reason.   None of the facts regarding the employment record of the other employees, his relative constant employment, or lengthy employment relationships counters the nondiscriminatory reason that Chapman did not interview well.
+
+R12-109 at 21.   In basing its decision solely on Chapman's failure to disprove specifically AIGCS's entirely subjective assertion that he interviewed poorly, however, the court required the plaintiff to meet an insurmountable standard that runs contrary to our circuit's cautious treatment of purely subjective justifications for adverse employment decisions.   In summarily dismissing Chapman's attempt to respond to AIGCS's proffered justification as wholly unrelated to the “poor interview” excuse, the court failed to analyze whether-or the extent to which-Chapman had cast doubt on the overall credibility of AIGCS's explanation.
+
+ In response to AIGCS's contention that Chapman had a history of “job-skipping,” Chapman presented evidence that his employment history was relatively stable.   Specifically, Chapman pointed out that he worked for six different companies over a thirty-five year period.   Chapman further noted that a three-year period during which he worked for three employers primarily represented work for only one client.   At the very least, Chapman cast some doubt on AIGCS's contention that his unstable job history constituted a legitimate explanation for the decision not to hire him.   Although this evidence does not rebut directly AIGCS's allegations regarding Chapman's interviewing skills, the plaintiff's ability to call into question the credibility of the defendant's stated objective criteria presented to explain its business decision is, at the summary judgment stage, sufficient to cast doubt on the defendant's subjective justifications as well.   See Combs, 106 F.3d at 1537 (“A defendant who puts forward only reasons that are subject to reasonable disbelief in light of the evidence faces having its true motive determined by a jury.”).
+
+ Our decision in this case is not intended to connote that an employer cannot make hiring decisions based in large part on subjective factors, or that an employer is prohibited from adducing these subjective criteria as a non-discriminatory justification for its employment actions.   Indeed, as a practical matter, individual and personal perceptions of a candidate's potential to “fit” or function well within the employer's organization often figure prominently in the decision to hire or promote;  we do not intend to second-guess employers' legitimate business decisions in this regard.   Nonetheless, where, as here, the employee has established a prima facie case and cast sufficient doubt on the credibility of subjective explanations that are not susceptible to evidentiary support or capable of objective evaluation by this court, we believe that summary judgment is not appropriate.
+
+We acknowledge that this determination may, in some instances, present the employer-defendant with the seemingly higher burden of supporting its subjectively-based business decision with some objective evidence or, perhaps, outlining the reasons why the subjective factors relied on were directly related to the job function for which the plaintiff was rejected.   We have already observed, however, that such an increased burden is appropriate where the defendant's proffered justification is highly subjective.   See Conner, 761 F.2d at 1499 (“[A] defendant relying on a purely subjective reason for discharge will face a heavier burden of production than it otherwise would.”).   Moreover, we are mindful that the “poor interview” justification, without more, can provide a defendant-employer with a convenient smokescreen for precisely the type of discrimination that the ADEA was intended to eradicate, with virtually no provable recourse for the plaintiff.   In sum, we believe that the district court erred in granting summary judgment on Chapman's ADEA claim, and reverse on this issue for further proceedings.
+
+B. ADA Claims
+
+Chapman also avers that, in finding in favor of the defendants, the jury effectively nullified the provisions of the ADA. Chapman contends that the district court abused its discretion in failing to find that the verdict was contrary to the great weight of the evidence, see Dudley v. Wal-Mart Stores, Inc., 166 F.3d 1317, 1320 (11th Cir.1999), and asks that we set aside the jury's determinations that travel was an essential part of his job and that his termination was not based on a disability of which his employer knew or should have known.
+
+ Title I of the ADA provides that no covered employer shall discriminate against “a qualified individual with a disability because of the disability of such individual” in any of the “terms, conditions, [or] privileges of employment.”  42 U.S.C. § 12112(a).   The ADA imposes upon employers the duty to provide reasonable accommodations for known disabilities unless doing so would result in undue hardship to the employer.  42 U.S.C. § 12112(b)(5)(A);  Morisky v. Broward County, 80 F.3d 445, 447 (11th Cir.1996).   In order to establish a prima facie case of discrimination in violation of the ADA, the plaintiff must prove that (1) he has a disability;  (2) he is a qualified individual;  and (3) he was subjected to unlawful discrimination because of his disability.  Id.  A “qualified individual with a disability” is an “individual with a disability who, with or without reasonable accommodation, can perform the essential functions of the employment position that such individual holds or desires.”  42 U.S.C. § 12111(8).
+
+ Following a nearly two-week trial, the jury found both that travel constituted an essential function of Chapman's job as SIR Manager and that his refusal to engage in business travel was not based on a disability that was known or should have been known to his employer.   R16-185.   Significantly, the jury did not reach the question of whether Chapman was, under the parameters of the ADA, in fact disabled by his heart condition;  we therefore decline to address Chapman's contention that the jury nullified the ADA by failing to find that tachycardia constitutes a disabling chronic condition.   Moreover, having reviewed the record of the trial, we conclude that there is sufficient evidence from which a reasonable jury could have found in favor of the defendants on these ADA claims.   We recognize that there was also strong evidence to support the plaintiff's case, but our task at this point in the proceedings is not to reweigh the evidence.   We note that the jury's findings regarding whether travel was an essential function and whether the defendants knew or should have known about Chapman's heart problems were credibility determinations derived from the conflicting testimony of numerous witnesses.   Where the jury's decision is grounded ultimately in the choice of whose testimony to credit, we will not substitute our judgment for that of the fact-finders.   See Hewitt v. B.F. Goodrich Co., 732 F.2d 1554, 1558-9 (11th Cir.1984) (“When the resolution of the case boils down to credibility, the trial judge must allow the jury to function․  The right to trial by jury would be substantially impaired if a jury's verdict could be set aside because it is based on evidence that the trial judge weighed differently.”).   Accordingly, we conclude that the district court did not abuse its discretion in refusing to grant Chapman's motion for a new trial on his ADA claims against all the defendants.   See id. at 1556 (“[N]ew trials should not be granted on evidentiary grounds unless, at a minimum, the verdict is against the great-not merely the greater-weight of the evidence.”) (internal quotations omitted).
+
+C. Evidentiary ruling
+
+ Prior to the lawsuit in this case, an AIG employee prepared a statement for the Equal Employment Opportunity Commission (EEOC) as part of that agency's conciliation process.   In the statement, AIG referred to Chapman's transfer to the SIR Manager position as a promotion rather than a lateral move (or, in Chapman's view, a demotion).   The magistrate judge noted that AIG's characterization of Chapman's transfer had been verified by another AIG employee;  that employee, however, later conceded at a deposition that the transfer was not a promotion at all.1  See R9-95 at 3 n. 3.   The magistrate judge expressed concern regarding AIG's “falsehood as well as the distasteful, cavalier attitude towards the judicial process.”  Id.  Before trial on Chapman's ADA claims commenced, the defendants sought to exclude this erroneous statement from evidence on the grounds that the description of Chapman's transfer as a “promotion” was merely a mistake and, thus, not probative of any discriminatory animus.   The district court granted the defendants' request to exclude this information and determined that, “[a]ssuming the truth of defendants' contention ․ the admission of the position statement that defendants filed with the EEOC on plaintiff's charge of discrimination would be unduly prejudicial and result in confusion of the issues, particularly in light of the number of discrimination claims plaintiff made that were resolved at summary judgment.”   R14-151 at 7.
+
+ Chapman submits that the exclusion of the defendants' false representation regarding the nature of his transfer deprived him of an important basis on which to challenge the reliability of the defendants' explanation for its decision to terminate his employment.   Although we exercise a deferential review of the district court's judgment on evidentiary matters, see United States v. Gilliard, 133 F.3d 809, 815 (11th Cir.1998), we fail to discern a reasonable basis for the court's decision to exclude this particular piece of evidence.   It is unclear why the defendants' erroneous statement on an EEOC position statement regarding the nature of Chapman's transfer would be confusing to a jury;  indeed, the jury could infer from the evidence either that the defendants had made a simple mistake or that the “mistake” was an indication of mendacity.   Though this evidence might have been somewhat prejudicial to the defendants, neither the defendants nor the district court has explained adequately why it would have been unduly prejudicial or unnecessarily confusing to the jury.
+
+ Having found that the district court abused its discretion in excluding the defendants' EEOC misstatement, we further conclude that this erroneous evidentiary ruling did not undermine the verdict or deprive Chapman of a fair trial to the extent that a retrial on his ADA claim is warranted.   We recognize that the defendants' credibility was crucial to the outcome of this case and that the EEOC misinformation would have been, from Chapman's perspective, evidence of the defendants' lack of credibility.2  Nonetheless, we do not find that this evidence, standing alone, was so probative of the defendants' alleged discriminatory animus that its exclusion from evidence requires that the case be retried.   In fact, it is precisely because the evidence was neither extraordinarily probative nor unduly prejudicial that the district court should have admitted it at trial.
+
+D. Award of Costs
+
+Pursuant to Federal Rule of Civil Procedure 54(d)(1), the defendants submitted a bill of costs as the prevailing party.   It is undisputed that the affidavit supporting the request was prepared and signed by an attorney who was not admitted to practice in Georgia.   The district court awarded costs to the defendants, granting the defendants' entire request for costs in the amount of $34,504.90, see R16-194.   The defendants subsequently submitted an amended bill of costs signed by an attorney licensed in Georgia.   The court reduced the bill to $21,855.25 to reflect the subtraction of transcription fees that were not necessary to the litigation of the case.   R17-213 at 2.   The court expressly declined to consider Chapman's financial status in calculating the bill of costs.   See id. at 3.
+
+Chapman contends that (1) the initial bill of costs was invalid because it was submitted by an attorney not licensed or admitted in Georgia;  (2) the second request for bill of costs was filed after the thirty-day deadline for submitting such a request;  and (3) the district court erred in failing to take into account Chapman's financial status before rendering its decision.
+
+ We are perplexed and troubled by the unrefuted assertion that the attorney who submitted the bill of costs, and who had actively participated in this litigation, had never been admitted pro hac vice in Georgia.   Although the relevant local rules explicitly provide procedures for non-resident attorneys to apply for permission to appear pro hac vice, see N.D. Ga. Local Rule 83.1(B), the district court appears to have accepted each submission by the defendants' several lawyers, whether or not they had complied with the local rule.   Notwithstanding our concern regarding the defendants' lack of strict compliance with the local rule on non-resident attorneys, we can find no case in our circuit (nor does Chapman point us to one) stating that a district court's decision to accept a pleading filed by an attorney who is not admitted pro hac vice constitutes, per se, an abuse of discretion.   Similarly, we find no precedent to support Chapman's contention that an attorney who is not admitted to practice in the state is not “duly authorized” to file a motion for a bill of costs, as provided in 28 U.S.C. § 1924.
+
+ We determine, however, that the district court incorrectly concluded that it lacked the authority to consider Chapman's financial status as a factor in calculating the total costs awarded to the defendants.   Our circuit has not specifically addressed the extent to which a district court may, or must, take into account a non-prevailing party's ability to pay before calculating costs in ADA cases.   Although we previously have held that “the only preconditions to an award of fees is that the party receiving the fee be the ‘prevailing party’ and that the fee be reasonable,” Original Appalachian Artworks, Inc. v. Toy Loft, 684 F.2d 821, 832 (11th Cir.1982), we have never stated that a court may not consider other factors in deciding the amount of costs to award after litigation has ended.   Rather, in an analogous context, we specifically have held that in Title VII cases, “a district court awarding attorney's fees to a prevailing Title VII defendant should consider ․ as a limiting factor, the plaintiff's financial resources.”  Durrett v. Jenkins Brickyard, Inc., 678 F.2d 911, 917 (11th Cir.1982);  cf. Baker v. Alderman, 158 F.3d 516, 529 (11th Cir.1998) (“[A] district court must consider financial ability in the award of sanctions.”).   We believe that, as in the Title VII context, the district court does have the authority to consider the financial resources of a non-prevailing party as a factor in the amount of costs to award.   Because the district court apparently believed that our prior decisional law precluded consideration of Chapman's financial status, we remand this issue for a reconsideration of the defendants' request for costs.
+
+CONCLUSION
+
+Chapman asks that we reverse the district court's order granting summary judgment in favor of AIGCS on his age discrimination claim, order a new trial on his disability discrimination claim, and vacate the district court's decision to award costs to all of the trial defendants.   For the reasons stated in this opinion, we REVERSE the district court's order granting summary judgment on the ADEA claim and REMAND for further proceedings in light of this opinion.   We AFFIRM the jury's verdict on Chapman's ADA claim, but VACATE the district court's order on costs and REMAND for reconsideration of this issue.
+
+AFFIRMED in part, REVERSED in part, VACATED in part, and REMANDED for further proceedings.
+
+FOOTNOTES
+
+1.   For purposes of this appeal, the defendants do not dispute Chapman's contention that his transfer to the SIR Manager job was not a promotion.
+
+2.   It is worth noting that, to the extent that Chapman would have availed himself of the EEOC evidence, this evidence might have been useful to impeach the defendants' general integrity but would not have specifically called into question the credibility of the defendants' assertions that they did not know that Chapman's refusal to travel was due to a disability or that travel was an essential function of his job.
+
+BIRCH, Circuit Judge:
+
+Was this helpful?
+
+Yes
+
+No
+
+Welcome to FindLaw's Cases & Codes
+A free source of state and federal court opinions, state laws, and the United States Code. For more information about the legal concepts addressed by these cases and statutes visit FindLaw's Learn About the Law.
+
+Go to Learn About the Law
+CHAPMAN v. AI TRANSPORT (1999)
+Docket No: Nos. 97-8838, 97-9086 and 97-9269.
+
+Decided: July 13, 1999
+
+Court: United States Court of Appeals,Eleventh Circuit.
+
+Need to find an attorney?
+Search our directory by legal issue
+
+Enter information in one or both fields (Required)
+
+Legal issue
+
+I need help near (city, ZIP code or country)
+Vilnius, Vilnius
+
+
+Find a lawyer
+For Legal Professionals
+Practice Management
+Legal Technology
+Law Students
+
+Get a profile on the #1 online legal directory
+Harness the power of our directory with your own profile. Select the button below to sign up.
+
+Sign up
+FINDLAW FOR LEGAL PROFESSIONALS
+
+Get email updates from FindLaw Legal Professionals
+
+Enter your email address to subscribe
+Required
+
+Learn more about FindLaw’s newsletters, including our terms of use and privacy policy.
+
+Learn About the Law
+Get help with your legal needs
+
+FindLaw’s Learn About the Law features thousands of informational articles to help you understand your options. And if you’re ready to hire an attorney, find one in your area who can help.
+
+Go to Learn About the Law
+
+Need to find an attorney?
+Search our directory by legal issue
+
+Enter information in one or both fields (Required)
+
+Legal issue
+
+I need help near (city, ZIP code or country)
+Vilnius, Vilnius
+
+Find a lawyer
+BACK TO TOP
+Questions?
+At FindLaw.com, we pride ourselves on being the number one source of free legal information and resources on the web. Contact us.
+
+Stay up-to-date with how the law affects your life. Sign up for our consumer newsletter.
+ENTER YOUR EMAIL ADDRESS
+
+FOLLOW US:
+ABOUT US
+Our Team
+Accessibility
+Contact Us
+FIND A LAWYER
+By Location
+By Legal Issue
+By Lawyer Profiles
+By Name
+SELF-HELP RESOURCES
+Legal Forms & Services
+LEGAL RESEARCH
+Learn About the Law
+State Laws
+U.S. Caselaw
+U.S. Codes
+LEGAL NETWORK
+FindLaw.com Free, trusted legal information for consumers and legal professionals
+
+SuperLawyers.com Directory of U.S. attorneys with the exclusive Super Lawyers rating
+
+Abogado.com The #1 Spanish-language legal website for consumers
+
+LawInfo.com Nationwide attorney directory and legal consumer resources
+
+Copyright © 2024, Thomson Reuters. All rights reserved.
+
+Terms
+Privacy
+Disclaimer
+Cookies
+Do Not Sell My Information
+Thomson Reuters Logo
